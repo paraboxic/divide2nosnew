@@ -1,4 +1,3 @@
-from tkinter import N
 import streamlit as st
 
 st.header("Week 8 Assignment- Utkarsh Sahu- 21f1001107")
